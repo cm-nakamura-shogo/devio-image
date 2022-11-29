@@ -1,0 +1,677 @@
+Hi everyone, I'm Charles, I work with Irish based out of L'Occitane and Georgia and we're here today to help share some information about time-strips forecasted. 
+So we know we've got a catwalk here so we thank you very much for sharing your interest in time-strips, it's a big passion of ours. 
+So I'm going to give you a kind of a thought process about the Irish-based model and then we'll talk about things like cluster area and the shape of data and sparse data and so forth. 
+But we've got plenty of time here for Q&A so this is a safe space, it's not your usual day, we'll look at your shape of the question you have. 
+And I've got a mic here so if you're not on the line we'll ask a microphone and you can ask it. 
+So what's going to happen is that we have a bit of a format. 
+And then at the end of the next research stage we'll be helping people to work with MLS to make it easier to analyze data and choose the operations. 
+Thanks for asking. 
+It's great to see you here. 
+I'm Martin. 
+Hello. 
+I'm Martin. 
+Okay. 
+Hello. 
+I'm not a forecast engineer. 
+When you talk about the environment, you don't have to worry about scaling, provisioning, securing, any of the other things. 
+Forecast takes care of all the infrastructure like the remote forecast, the machine learning models, the web policy. 
+For you. 
+Amolus forecast provides easy control for instance and see how the performance basically will be used to generate highly accurate time series models. 
+Forecast also provides some other functionalities apart from generating highly accurate time series models like context rate which helps you understand how the model behaves with respect to the data. 
+What its scenario is so that you can understand what changes in data, what type of forecast and what you want to change so that you can measure the models when changing data. 
+Now, at the left side of the slide, it starts with the application of data which is the graphical data of the data database. 
+I'll be talking about this in a couple of slides. 
+But it starts with the application of data and the forecast editor, entire pipeline of the United States with the addition of models and then creating a forecast. 
+Forecast accesses the entire data database like this so that you can do more product analysis. 
+You can also divide the generalized statistics into three pairs. 
+Data operations, gradient links and deployed models. 
+The data usage part comes in a few in just a few types of forecast. 
+Between global time series models, a lot of times you might have to gas the data or you might have data at different frequency and you have to generate forecast for different frequency. 
+Forecast exploits those functionalities like inspecting data, reading the signals and denigrations. 
+As a result of the frequencies, you can get accurate yearly, monthly, hourly, monthly frequency. 
+It also has built-in interest like weathering quality. 
+So that you don't have to worry about weatherization as well as like the humidifiers, solar panels, etc. 
+Now, it's based on the Reliant Training Network dataset so that you can train the models as well as get accurate weathering using the lattice. 
+Now, by example training in the tuning phase, what are the phase 1 to machine learning phase models and as a value of optimization. 
+You can have pure data so that models consume a lot of pure data. 
+And it's a more advanced model at a nice user such that what you see is the ultimate model is a combination of various models. 
+Kutath provides global ideal predicts as well as explainability so that you can understand the model performance and then evaluate what users are giving a model to do a competitive model. 
+Now, going back to the large employing space, Kutath lets the big Kutath in ETP use Morphix without you having to select a few or a high-end infrastructure. 
+And Kutath takes care of all the infrastructure management. 
+We also do functionality in 2022 called model monitoring which can be used for production systems which the quality of models will be better. 
+Such that you can play with different models, you can go up and be known and see the characteristics. 
+Or you can exercise the normality of the model. 
+I think the question is how do we know which weather you are in. 
+So, when you are interested in the system, you can select geolocation and those geolocations can enter the weather in our across all the world which geolocation does want to do in the weather data. 
+Weather data is generated in our system from cellular computers and then we use the geolocation to do the tracking. 
+So, Kutath goes both batch and sequence batches where it's going to get all the data and here you can see all the data so you can see your drive path and what's happening in the data. 
+I want to add, maybe if you guys are a couple of more, but obviously it's a three principle and it's based on put and experts as well. 
+But you can get your data from your source system. 
+There's a macro API that's batch important and that's going to load data from the way it exists at best such as my data CSV on S3 and then this is going to adjust the way the forecast expects it. 
+That is one batch operation. 
+When the data is made it's an easy and simple call. 
+It matches the data from the cluster to the transformation and that cluster is one time in a single day. 
+That's part one. 
+Part two of macro API is what we call break through. 
+So, you can find that it's changing from one model to another. 
+That is also a batch process that enables the data behind the scenes. 
+And then finally they create a forecast. 
+That is also a batch operation. 
+Create a forecast is pulling the raw data through the same model. 
+And you can export that data as a screened batch model. 
+Or in a large machine you can do that as an API as well. 
+But we do believe that that is not a production rate. 
+That API can't consume this. 
+It's not a production rate. 
+It is but it's really going to have higher frequency. 
+Because it's got network integrity. 
+So maybe a better way to do that is from a data batch. 
+That's screened and then ingested data to the point where it is a screened batch. 
+It is a little bit different. 
+Yeah, that's true. 
+All the things that can be divided into three entity reports. 
+The first one is the training and tuning phase is called. 
+The forecast is not the point of registration. 
+Which is an entity which has the score models in your industry. 
+And the point is this around the input of the forecast. 
+The input of the forecast is the entity and you can do the coding areas without the entire data. 
+You can also create as many as 4,000 samples to very high data that can be used for the initials and entries. 
+Any other questions? You mentioned that the min-x frequency is a faster frequency than the mass frequency. 
+Is the program rate of the data from the mass frequency to the mass frequency? So who has the frequency support in a computer machine? I think Mr. 
+Devino. 
+And we can take it to the lab and from the lab team. 
+We can take it to our lab. 
+Is there a need for the data in that program? Yes. 
+Currently it is the plan to go to the lab team. 
+Any other questions? Yes, sir. 
+If you have to convert this to a problem of the features, how can you do that? Yes, I will cover the data in more details in a couple of slides. 
+This is something we support, but we do not have to worry about whether it might be a true competition or not. 
+But if you have to convert it to a problem of the features, we can do that. 
+I wonder if there are other questions that are that long. 
+We have a lot of data and we are licensed to do it and make it easy for customers to use it. 
+We have a lot of data and we use some of the data to help the index. 
+It is not just to get people to share the data and the purpose is that you do not have to subscribe to that data and buy it. 
+You can use it to engineer it. 
+There is a new genetic input. 
+That is the way we are working it out. 
+That is the process we are setting. 
+The question was, can we do it in order optimizations? Can we do it in order optimizations? Sure. 
+I will show it. 
+Someone had this in your library. 
+This is an API to break the vector. 
+Here is an example of what is happening. 
+When we optimize, when we optimize, we can think about data sets. 
+When I say data set, I am talking about 1,000 or 1,000,000 items. 
+These are items that are set in all of the line series. 
+In reality, most line series have their own symbols and shapes. 
+It is great when they can model with a test model. 
+What is happening in the scene is that we may have got a policy that is not very good for building a model. 
+We are talking about data and we will talk about it in a few minutes. 
+After you have built it, you will watch about some of the different clusters. 
+This is a big cluster. 
+There are things like the Riemann, things like the EPUB, the SCINNN, QLR. 
+It is a mixture of statistical models and a mixture of other models. 
+The reality is that every line series has different characteristics. 
+There will be some of these models that will be really well with that single line series. 
+What we are doing here is we are optimizing. 
+We are building our model before each single model. 
+For item 1, it is 100% minimum. 
+For item 2, it is 100%, maybe even plus. 
+For item 3, it is 16% BTS. 
+The balance of it is just the model. 
+The purpose of this is to really come up with the least amount of loss per line series. 
+Some of these will have a high bias and some will have a negative bias. 
+We will always do that. 
+You can specify how. 
+Is it a mean, a greater error, is it a negative or something else? That is where the optimization happens. 
+That happens in this ensemble staging. 
+The ensembles will actually build a model that is used to serve. 
+When the other two, which are in the early rate forecast, when it is making those predictions, it is usually saved on that. 
+It is kind of that $10,000 registry. 
+Did that help about how this is optimizing? I do not want to take any more questions. 
+This is it. 
+Before optimizing, we need to know the hyperparameter optimization. 
+Which is there for a specific model. 
+For example, if PBR is the hyperparameter of models, on your data set, we do the hyperparameters optimization so that we get the best version for PBR. 
+That is the first optimization where base models are optimized. 
+Then the other model optimization is ensembling across multiple layers of models. 
+So that each time we can get the best version of the model. 
+These are the two cases. 
+One is, we have invented that PBR is Q1, SQ2 and we have designed Q1 as the hyperparameter optimization. 
+All of my algorithms, we can get a good version of the model. 
+Yes, they do it and some of them are all out of the year. 
+So if you have the weather, we try it without weather. 
+We get better results without weather. 
+If you have all the over time, we try it without that. 
+The goal for you is to have the best possible. 
+That is what we are talking about with the other models. 
+So if we optimize, how do we avoid overfitting? One of the things we are doing in Linusons as well, when the ensembling is happening, we are actually sampling different periods of time and different factors. 
+To make sure that you are on the right path in the past three months. 
+The last three months are not the same as the three months prior to that. 
+
+So we are doing that as well. 
+Just to make sure that Michael is able to do a different copy. 
+Any other questions? That was kind of an important slide discussion. 
+We are going to make sure we have time. 
+Sir? Right now we are talking about the models that have been used. 
+We are talking about the models that have been used in the past three months. 
+How do we prevent the situations that we have had. 
+That we have had in the past three months? Sure. 
+Today we are not going to express which model is which. 
+But you have this point of view. 
+We have the Shapiro-Guy experiment. 
+You are familiar with Shapiro-Guy. 
+You have studied Shapiro-Guy. 
+That is what we are going to do. 
+We do share what we are all saying. 
+What is the explainability of Shapiro-Guy. 
+We also have the ability to do that in the next three months. 
+Because the price of a product may have a relationship with the non-ability of Shapiro-Guy. 
+But that might not be true for all the products. 
+That is where you get the explainability of Shapiro-Guy. 
+The idea of well-set times well. 
+We do have a slide about explainability. 
+If that does not answer your question, we will get the least amount of time. 
+Thank you. 
+So we have a few questions. 
+I think the question is with the generation of Mexico, is customer given action about how to mitigate and how to implement the data? And you talked about more work. 
+Because like you said, you have to have a lot of interest and a lot of people are interested. 
+Great question. 
+Thank you for all the questions. 
+Now, I am going to get into the story of what happens. 
+Because we have a lot of questions about how to get the action started with the forecast. 
+And I am going to talk about the data. 
+For the forecast, forecast data is divided into data sets and values. 
+The target item is data related to the data set and items. 
+Now, these three data sets play a role in model creation, tuning and then activating the forecast. 
+So I will talk about key points and then I will take questions. 
+Now, target item is data set, why data is there and till the final data set. 
+This is the data set for the data model for the data set. 
+Target actually is, make no requirement that you have item ID, demand and timestamp. 
+If you only have these three models, you can actually get started with the forecast and the data set. 
+Now, let's talk about the case where you are retaining demand data as any model. 
+Measure how the demand is going for the next 7 days of the next month. 
+This slide talks about item ID, demand and timestamp. 
+And because of various items and a timestamp, we have a data set. 
+Now, in this example I have taken a timestamp on a daily basis. 
+For timestamp, I have got the code GAN infinity value of 100 and 500. 
+So just having these three, we can get started with the Amazon forecast. 
+Just by coding the target time series data set and you can generate predictions. 
+Let's say for the next 7 days, what will be the demand of item 1001A on next fall 8, 2022, 2011, 2009 and 2012. 
+
+Now, even these three, if you are a retailer, you want to get demand for single item for the next 7 days. 
+If you have sold across multiple locations or sold items, Amazon forecast gives flexibility and control for the transition. 
+Then we introduce the topics. 
+With topics, you can ask what is the time series for item A across locations, CIS or New York or anywhere else. 
+So, this slide is just an example of this. 
+So, for some months, once you have sold items across various locations, sold items, Asia, North, countries, or even in other countries where it is really difficult to get the location or the location of the item sold. 
+But for your case, it might be difficult. 
+Apart from retail planning, you can have inventory management. 
+What else about manufacturing, about how much items are required to be manufactured for the entries, etc. 
+Any questions about targeting? Yes? Question- So, the room that you are going to set up, what kind of room is that? Why do you need to set up? So, the question is how many rooms you can have in your forecast. 
+What about the center group? Well, I just want to get some information that the customer chooses where to go to the bottom of the forecast. 
+So, I was going to introduce something that is excellent for the late-term sales. 
+The strength of the bottom of the forecast is going to vary. 
+In this phase, the future value of the demand, the future value of the demand, is going to be holding the demand on the part of the market. 
+So, what you can do is bring the data in one direction here, and the end of the forecast, you ask it to go forward with the targeting series. 
+You actually aggregate data for it. 
+During the buy-buy phase, the building phase, you will aggregate data. 
+So, you bring your data here, with that item in the location. 
+You can ask the build data model to produce the forecast, the eye on it. 
+Maybe as a company, you might have a question, how many widgets do I build, or how many widgets do I buy? You might also have another view for, well, how many, where do I place it so that it's spot free, so I can serve my customers with the geographies. 
+And so, you can probably get a different view than the one I'm in. 
+And then this is the view right into your forecast, that you're doing. 
+You can mix and match this, so you can always get it higher than what you're doing here. 
+But this is true only on the target time series, because as data is fully additive. 
+And I think we'll get done with that. 
+A couple of other questions, then. 
+I think that's about it for the pre-assignment in the recording. 
+So, I think a couple of other things, we saw it's kind of possible to get a better view, but we can give it one more chance. 
+Yeah, we can give it a product feature, unless it's for our service. 
+Or if it's for any service, there's a product feature, unless it's your area of expertise, or if you're working on some track package, or CSI, or something like that. 
+If there's something on your area of expertise, you can ask for a product feature, that's to make your voice heard. 
+And that's how we always introduce that product model. 
+I can write that down for sure, but we did look at the creative marketing of user service. 
+And for those of you who do have these dimensions, 10 is definitely a long time ago. 
+So we can meet that average percentage, but quite a large proportion of customers can do that. 
+But somewhere in between, the sense tail is not that straightforward. 
+So, it's more or less a little bit. 
+Okay, I'll just go back to that. 
+Yeah, when you're giving the item or item classification, or whatever, the forecast will be, will the item plus all your dimensions, which is specified, and so that the hands-on accounts of that level. 
+In fact, this is on a data model. 
+Because the shape of the data is going to have retail, item, location, specification, and your shoes and boots. 
+So that means that if you're shaping your data, you're going to be catting things together, like the built smart indexes. 
+You're catting item plus, better school wear, or whatever it's on. 
+But if you have another way where you aggregate the data, then it will be your data model together. 
+So, that's how it works. 
+I'm interested in the media for that, more about the interview, so that you don't have to do the marketing or the daily life of the interview. 
+How does the forecast work out? A couple of questions that I'm going to ask you is, how long do you think that the forecast will take? I talked about the day where the forecast was right for 7 days. 
+In that case, you can get started with actually finding some solid data. 
+But in the case of these customers, who have one or two years of data so that their models can come from solid trends as a matter of fact. 
+
+Any questions? I have a question. 
+Like you guys mentioned, if your data is cyclical, then having two years of data, you can see November 30th and twice. 
+And so that allows you to see if the data is cyclical. 
+And this gives a lot of information, especially if it's cyclical. 
+If you don't have data, then your data is not cyclical. 
+Or if the cycles are 90 through Sunday, or even Monday. 
+It's a shorter cycle. 
+But you can always have a new control here. 
+Next slide, please. 
+Finally, this is optional data that has proven to be interesting. 
+Data is not a fact of the fact when you are relying on models. 
+Now, why is that so clear? In general, if it's a price, or any aspect which you can impact your sales or inventory, you might follow the HIT in a related time. 
+Meaning, now, when it comes to a related time, it is very important to understand what other aspects, a lot of the most common demand present in the market actually is going to affect the market. 
+From customer perspective, the question is, what should be the bottom in the market? And to that, the answer is, you might even do, understand what impact this is. 
+What price, what business, what price, and if there are factors which actually help, if you take, for example, a promotion or a price drop, might be completely new to you. 
+So you might want to have that as a component in your taxing data set, to enhance underlying models which are created with our taxing data set. 
+Other examples, if you are in manufacturing, it can be economic indicators from two worlds. 
+If you are a bar-cooking restaurant, the store-house might be a good model in taxing needs, or in both, a promotion going on in both. 
+Number of columns in RTS can be of the money, and so far customers, you can have a lot of data about the money, and you can put it in the SQL, but we believe this money, if you are able to do it, you will be able to get the best outcome. 
+We do have some requirements of the DTP numbers, but most of the customers, are able to get right results in 5 to 6 columns of data. 
+Any questions about this? Yes, just a quick question about the features. 
+What are the features of the DTP numbers? Yeah, so we can talk about it, because it's part of the next slide, which is now in my data, and there is the data as well. 
+Yeah, exactly. 
+One thing that is special about DTP is this data is not added. 
+So when you are doing the finding of goods, like you do have, or you do not have, the email solution, not added. 
+And so here, you have the engineering of this data, the same way that you might have the forecast data. 
+So the prior data, we can bring it in here, and the aggregator will fly here. 
+The frequency here, if this is daily, your prediction will be daily, but this is a weekly prediction, so we need to take care of it. 
+Have this data expressed for that period. 
+The checkout price itself might be a little bit average during the 7-day period, but it's really something to manage. 
+You can also use experimentation like the bottom number, where it goes into max scale within the time stream. 
+So, we'll go right here to 1,008. 
+So, we'll go into the max scale of the price, so we'll make sure we're doing that 1,008 against 1,000. 
+Because it might not be the same amount of writing. 
+So, all of these things are open for experimentation. 
+You know, obviously, the percentage of them can change, test it, and maybe use it. 
+Where does the testing carry that forward? I think that there was a question about the marketing. 
+I think that this is a positive thing, for example, many companies are making strong, let's say, 20-21, they have one, and they go back and have zero, and have zero. 
+So, let's give the flexibility with the operating time and situations of the optimization. 
+I want to introduce the data. 
+Now, quantum energy is also a long-term area of the quantum technology. 
+One thing to note is that quantum energy data is a data that is time-intensive, and has contextual value, and is related to the target time series data. 
+Since it's a static data, it is not a time-series data. 
+So, something to note is that for an integer, you might have a lot of categories which can identify a category. 
+For example, 1A is leverage, and some categories are top-down. 
+Similarly, there can be other classifications, and you can keep your data so you can have gender and gender as item-intensive, or the size of the other as item-intensive. 
+So, any categorical information can be used as item-intensive, and these models can be directly entrenched across the target data. 
+So that quantum can run across items and enhance the prediction. 
+For example, let's say I'm working on a relaunched Polestar as a functionality, and I can identify a hero named PolestarIcons. 
+PolestarIcons are items for which you do not have to solve the problem, and you want to get the prediction. 
+
+Let's say you wanted to do a product category, and you want to know how much of the space you can manage in the product category. 
+What is like that, I can identify a hero where the model can launch from similarity and it has anti-projections. 
+So, for example, if you want to do a new model, like IoT, and it will also have a category and category number, you can use it to learn how much of the space you can manage in the product category. 
+One way is to base on the data. 
+Any questions? Just a question on the first item, is it normalized or are they just not doing that? So, this is pure auditing. 
+The slide talks about pure auditing. 
+I don't want to be too specific, but this is not about how you want to do this. 
+It's just that you ask the students what is going on in the model. 
+You can start with that, but as a materialized example, you might be a serious teacher and you might want to enhance the data from outside of our system so that you can see the model's expectations. 
+And it's going to get you a model feature which actually helps you understand the model better. 
+There are two more features which will be added back to the model. 
+And we will use that with the MyTeachers that are given in the system. 
+So, let's see what happens. 
+I'm going to give you a talk about target activity and target data. 
+I'm going to give you a few examples of what we do with the model. 
+Can anyone tell what the goal is? Is it target activity benefit or target data benefit? Is it anything about department? And where does item go into it? It goes into it because you need items to categorize and optimize each element in the graph interface. 
+So, items go into all the elements when you are talking to it. 
+Now, I can go into the type of item where it's a target activity, and the other item where it's a target data. 
+So, you want to get it online. 
+I think we're good to go. 
+Thanks. 
+Well, thanks for the talk. 
+We've got 25 minutes here. 
+Who's got your name? I'm Matt. 
+I'd like you to tell us a little bit about the use of customers. 
+Is there anything you've done? There are times when I can talk to customers. 
+From the world of administration, we use cases. 
+So, I'm going to share some of the things that we do. 
+So, first, we start out by doing a prior research. 
+When you do a prior tribal model, that is, when you're a subject matter expert about the business. 
+So, you start out with areas as research proposal and criteria. 
+There's really nothing wrong with starting out with just TTS. 
+Just TTS is going to be the very problem. 
+It's good information. 
+This gives you a baseline of what you're looking for. 
+And then from that, you make a big guy call. 
+Of course, you've got to export the data. 
+Then you make a big guy call to create your predictor. 
+And it fires up that workbook that people have over here, right? It's an assembly. 
+You get an output. 
+These are predictor metrics. 
+So, some of these things are smaller. 
+I don't know. 
+Is there anyone who knows what kind of metrics you need to get your accuracy made, away, or in the scene? You may have to make different analyses for grades of all days. 
+But, anyway, there is an overall accuracy number in the SunForecast produces. 
+And I would say that's interesting. 
+But I wouldn't go live stock. 
+It's a directional feature. 
+
+What you want to do is, like SunForecast gets you a little bit deeper insight into every single science series. 
+It's really important to look at the metrics. 
+And look at spread of data. 
+And then ask, what's this? And then go chase down bits of data that help raise the R2 experimentability of the model. 
+Give it more information. 
+And then once you see what's missing, because there's going to be outlines. 
+Some of these will be way back. 
+Some of these will be real. 
+Some of them will be better. 
+The other thing here is, and I don't know the slide that talks a little bit more about this than the next one, just to say, plan on doing your two, three iterations here. 
+Getting to know the data better. 
+That's the whole point. 
+All right. 
+One of the things that is on SunForecast is where you, there's an API called a great predictor. 
+We've talked about that. 
+There's another one where you can export your metrics to that screen. 
+And these data look like there's two kinds of data. 
+There are accuracy metrics for science series. 
+And there are also predictions here on the right-hand side. 
+These are actually predictions made during that whole test period. 
+So whatever your horizon is, it's a three-month horizon. 
+We will slip data into the last three months of the data, which is your back test period. 
+So the back test period is always going to be the same as your future period. 
+And so there are a lot of ways to do this. 
+This is not the only way. 
+But it's a suggestion we might think about, maybe it will be helpful to you, is to scatterplot the data from SunForecast. 
+So go down to the screen. 
+You might have these error metrics per time period. 
+You might scatterplot. 
+And here we've chosen a couple of axes. 
+We're looking at squared error and average percent error. 
+And here at the very bottom on the top and on the left, that would be zero error. 
+So this is good. 
+And further you get out to the right, top one error. 
+So notice here there are outliers. 
+Our data system has an outlier. 
+What we might do is we pick something in the middle. 
+Because if you can't prove the ones on the far left, you might not start with the ones on the far right. 
+And then you can prove them on the right. 
+But what you can do is go into the details of SunForecast. 
+And it will show you, it will actually tell you where they are at. 
+So this is a hypothetical predicting a photo that I don't have placed at the 10-week horizon. 
+And the target value is actually the true value. 
+That's the real truth of the known value during your test period. 
+And then we have the P50 and P90, which are the one models. 
+And this is a P50, if you think about that, is kind of an odd ratio where it means that the number, the 3 to the 9, comes out at the top. 
+That means there's a 50% chance that the number, whatever the number is, it's a 12 to the minus. 
+That means there's a 50% chance the number is going to be 3 to the minus 7 or less. 
+And then the P90, that means that the number is going to be very low, 9. 
+
+It means that there's a 90% chance the numbers will be 4 to the minus 4 or less. 
+So this is the way you can develop this confidence model. 
+So the cumulative probability is good. 
+So if you choose the right model based on your business, and we've got time to talk about one of those, but the point is here, at least the records that are in there, clearly the reason is the single time series is really performable. 
+So the answer is why. 
+We'll look at the outliers and ask why. 
+This is based on a real world scenario where a customer has a product that's out of stock. 
+So of course if it's out of stock, no inventory, there are no sales. 
+And that explains why the target is zero. 
+And the way you can do that is to go back and go to the platform, and go to the RTS, go find an enterprise where the inventory is holding position for the applicants. 
+And then code that the RTS is a multiband. 
+If you do that, then the neural network follows in that relationship. 
+And you'll realize that the inventory is here, that's the main constraint. 
+And that's the way that you can build the confidence model. 
+I think we've got some questions here. 
+In that interest, can we add new series of companies that are holding from the beginning? Or maybe as you go along, as you address the question. 
+I shouldn't run the mic. 
+Sorry. 
+In that interest, can you add additional business series? Or the interest that's up there. 
+Yeah, the question was, can you, if you go through this trial here, can you add additional business series or are you starting from scratch? So you can add more rows of data, yes. 
+But if you want to add more columns of data, probably a better way to do that comes from broadcasts, something called a dataset group. 
+And that's a container. 
+It contains the schema of the data you're reading. 
+And then there is the box of the dataset groups. 
+And so I think that's a great way to use these experiments to spin up the market. 
+And then have the last radius look at the cell phone. 
+You can do this to agree with one or two dataset groups you can use over the classroom. 
+But I would say you've got to get a feeling on that. 
+Create a new dataset group. 
+And then you can have a wider, single additional feature. 
+And you can go from there. 
+Any other questions? Okay, so we've got, there's one voice here. 
+We talked about chapter values earlier. 
+I'm not going to tell you this. 
+Alright, so we talked about chapter values earlier and expandability. 
+So on the hands-on forecast console UI, you can get something that puts some variables. 
+There are sort of a bar that's related to the issue you're providing. 
+Related to the series and i3. 
+I don't know if it's going to work when we visualize that. 
+This lets you know the feature that you provide is helpful. 
+If it wasn't great, we're not helpful. 
+So if you've got a value here and it's got the price at zero, then that means that you might not even take care to issue that feature. 
+You might take it out. 
+But here with inflation, that number 0.91 is relatively high. 
+When relative to the others, this is not a coefficient. 
+This is a linear regression coefficient. 
+So the number means nothing other than the same thing as the scale. 
+To give you an idea that inflation is roughly a times one word. 
+By having that in your data, then that's the temperature. 
+
+The temperature also is helpful. 
+And then you're also going to think about the positive and negative correlations. 
+So that's how these are set up, is increasing and increasing in price. 
+The fact that you have the data is bringing value. 
+So the idea is, it's good to have some of the things that are increasing and some of the things that are decreasing. 
+Because the other things are in the bias. 
+This is all that I said about the console. 
+You can get it through any dot-com as well. 
+I mean, at JSON-Login, you can consume from that. 
+And you can also launch a batch top, which you can get idle-level and time-level. 
+So what I'm saying in terms of this is the better best here. 
+Now this is just a couple of tools. 
+You can use data to get better at this. 
+And this way is about the same as you can understand this kind of thing. 
+I think this is informational. 
+So here, this is based on a rule set of 12 categories. 
+And it's a retail sales data set. 
+And here, it means that the market happens. 
+By the way, the part of the variable that's involved is sales and options. 
+So if you think about it, as your market happens, your sales offers only increase. 
+Tool price. 
+If the price of fuel goes up, your sales may go down. 
+Potentially. 
+I'm not saying this is a causation, but my standard reason is fuel prices go up, and we'll have less discretionary money to spend on it. 
+I didn't mean to read that. 
+Sorry, I never first read that. 
+I was just curious. 
+Does Angular BIOS provide some of this data, like macroeconomic data, inflation and employment? Yeah. 
+So the question is, does Angular BIOS provide... 
+There's another category here. 
+Does Angular BIOS provide this kind of data for macroeconomics? So, yes. 
+But it's not really an Angular BIOS marketplace. 
+It's a data exchange. 
+So we have probably more than 1,000 plus or minus publishers that create and curate sales. 
+And also have to lose, raise some of those purchases. 
+Then it's data across the whole wide range of things from healthcare to these requirements and economic indicators. 
+So if you, you know, say, browse the data exchange catalog and look at it, you can see that you have your own data business. 
+And then what you do is, some of that data is available to download through S3. 
+And so you would then blend that data and any other process together. 
+And you might have a second device. 
+So all of that related money series might be dated by, might be dated by, might be dated by, might be dated by share requirements. 
+Thank you so much. 
+That gives a question for the job. 
+Thank you. 
+So it looks like, you know, an amended approach here is to run forecasts and then detect outliers from there. 
+Is there a way to do a score-coding data analysis so that you can detect data problems earlier along before fitting them into the forecast? Like, can you do it without a funnel? Is this the new way of running forecasts? Yeah, you can definitely do that. 
+In terms of the way you do that, there's a lot of ways to do that, right? You know, you can do it like a different notebook. 
+Maybe you can do like R, or any kind of detail tool. 
+
+We have a service called Data Raider that will help you do some of that. 
+A lot of times what the service will do is it will look at single-high-level data. 
+So we can start at around 1,000, 1,000, 1,000, 2,000, et cetera. 
+So one way to do that is to go to your data. 
+There's a lot of ways to do that. 
+But I think one way to do that is with V and the standard deviation of that number and see how well the data is, how much movement it has. 
+And there's a lot of ways to do outliers. 
+You can actually describe that in an outlier. 
+Describe what outliers are going to do. 
+These are pretty impressive steps to have in some forecasts. 
+I saw what you were going to have the, you know, the tool that they don't regulate anymore, but they do the forecast for which you're saying it's better, it's more time efficient, but resource efficient to just run the forecast and then see what the data problems are there. 
+Well, I guess there's an incidence, right? In fact, we have an incidence on forecasts, but, you know, we don't, we don't have the data for that. 
+So you can kind of look at or, you know, say I get a frightening incidence on forecasts. 
+It'll fill like a relation that's five years of your super relations so you get things that you've never seen before. 
+There's a lot of ways to do it. 
+I would say there's one very way that we definitely make a lot of tools available to customers to pick what's the best for them. 
+We have a notebook with Jupiter or we have data regular to do that as well. 
+But it probably makes sense when you, if you've got the talent organizations to do that in the end. 
+With some serious forecasting, seeing what other can help, really the quality of the data that you're getting is going to be where you have the most of your success. 
+The training data, so having, that's why we're doing this session all about this data shape, ways to shape data, cost of the shape. 
+And I'm looking at the quality after the show, is that our strategy for you? That's helpful. 
+There's always a lot of ways. 
+So the bottom is we have a set of data that we can take and we can add to the table. 
+Yeah, yeah. 
+We've got a chart that we'll share with you. 
+So a lot of, there's again, a lot of ways to do this in the chat. 
+But we have something that we can share with you on our AWS, our report task. 
+It's database tables. 
+And so that is, it's a YANNEL file. 
+There's a couple of them. 
+In fact, there's a session, we want to make it to the markets to talk about a session on Thursday. 
+We've got a side of this, but what we do is a couple of YANNEL files, one of them sends up something that creates all that IA information. 
+And then the second one is one that handles each of those little data set group right data set groups. 
+So the data set group is equal to a work group. 
+And what customers can do is suspend something, but have a writing that they can loop back and then orchestrate all of the steps to the work data into the data set group that's created in the picture. 
+And in fact, it can evaluate which is the right picture and then use that best picture for the whole process. 
+So the whole process can be automated. 
+But if you're going to have a process, it couldn't be that it's a three table outliers. 
+I've heard from a couple of times, I hope it's going to draw a chart of outliers and have to refer that to that. 
+And some of the outliers can be in those computer uses. 
+And maybe you guess it's an outlier, but it's Christian's holiday. 
+And so it's an outlier without a unit. 
+So I think when it comes to outliers, when you're doing these things to build your workflow, you need to be very careful that you're taking the steps that you have the right to do that. 
+So sometimes you might have an outlier, maybe because it's an outlier, but you want to explain it by quality. 
+And sometimes it is an outlier. 
+It can be bad data, like double up, triple up, and sometimes it can be a process in the world. 
+But ask the question, is it a true outlier? It won't happen again. 
+If it won't happen again, it was a sincere erroneous thing. 
+You want to throw that out. 
+But it's a little bit of an art, but you get it right. 
+
+Especially if you're in thousands or tens of thousands of people who have the same experience. 
+Any other questions? Great question. 
+All right. 
+So I'm going to draw a little bit, so this is a chalkboard, right? So just draw a little bit. 
+We could have done a science book, but we'll draw it. 
+So we'll talk about how this thing sparks data and how it works. 
+Okay, so I'm going to draw our three different time series. 
+And this is our exact series of new time. 
+And inside a data set that you have, it could be one out of a million times if you had no time to continue. 
+I mean, however many you've got, we would call that a data set. 
+And inside that data set, there's going to be one row that has the minimum time. 
+So think about the minimum time span across the whole set. 
+Also, there's going to be at least one row that has the maximum time. 
+And we would call these hands-on workouts the global minimum and the global maximum. 
+And this is going to be based on whether it's a music, this is going to be based on your data. 
+Now, when we move into the sparse data and filling, here's some stuff with the time series forecasting. 
+The data needs to be in the same shape, similar to like computer vision, right? The x and y dimensions of that image have to be in the same shape. 
+So let me show you what these might look like. 
+So we'll set this by one. 
+So we're doing one right here. 
+So what this is meant to show, there are a couple things. 
+One of them is, clearly this data has something happening. 
+Maybe it's a holiday, and maybe that happens again. 
+It's the queriest question. 
+But you can see the shape of the y-axis is not the same as the shape of the y-axis. 
+I created my plan for something like that, and I think that's what the queries are talking about. 
+They get glitched. 
+You have that experience of the visitors, the holiday, the work-on-mission, everything. 
+So the way it has some forecasts, I'll say also that for the single time series, these are the sparse data for this time series. 
+So there's not an expectation that every time series begins to move with the minimum time series. 
+But there is an expectation that all the time series are filled with that to the goal of editing. 
+So in some forecasts, we do this for you as part of your definition of the query prediction. 
+And a couple of ways to look at here, we'll look at this time period and that time period. 
+Okay, so this is all in mental, in mental. 
+And these are periods of time where there's a gap, where there are no observations of the data. 
+From some time after that project got started, but not including the most recent good stuff, the back-of-the-view, the negative feedback. 
+So that's one thing that ends up in forecasts. 
+I'll do it for you. 
+So when you fill this data in, and by the way, there's nothing wrong with filling this in yourself. 
+It ran there over 200 times. 
+There's nothing wrong with doing that ahead of time, but it ends up in forecasts. 
+It's actually a grass-powder in the end. 
+And so you can fill this data in and the strategy is like a zero, a one, a two, a rolling value, a four, a five, a ten, a ten. 
+So you can get an instruction. 
+I think there's something very important in the development of the asset. 
+When you've got a project, it's going to be out of stock. 
+And there is a demand for that. 
+You actually might consider some of this all of a sudden. 
+Not a number. 
+
+So the development of the asset was in deficit. 
+The importance of that is if it's a thing that you don't have any observations, but there were no observations of it was in a stable, no activity, because there were constraints. 
+It's important to use advance until otherwise, you'll lose your buy-out model. 
+But if you still have the zero, you're going to make it a condition in the future that will last for a long time. 
+So this is a very important thing to consider. 
+When you're using this inside, I don't know if you'll ask for it. 
+We could create one. 
+We could create one. 
+So the other thing that I want to talk about that you can use that in the next few minutes is outliers. 
+So if you think, because there's our main response areas, and then this is our – there's a lot of ways to do this. 
+Let's say that this is our plus-minus-minimum information for the mean. 
+So these are your period. 
+So that's where – we can talk about this in a few minutes, because we've got additional here. 
+We've got a great course we're going to talk about, which is – this is going to happen again. 
+And then we can make a new query to explain it. 
+But if it is not, it will happen again. 
+Then you can trim that out. 
+You can either replace that with a mean or something else to kill those values that are actually buy-out models that have higher predictions in the future. 
+And then another way to look at this in Dix – let's say this entire set of three items are for our item. 
+We would say this series is the target-one series. 
+So that y value that we're going to do. 
+And this we can say is the RTS. 
+So here is one of the ways that you can do this. 
+So, for example, if this may be a price of 1.5. 
+So this is a 100 percent normal price for a 1. 
+And maybe that's 80 percent or 8 percent off. 
+So you can see that this is how the experiment works in this relationship. 
+So this is something you can do here and how that influences the demand. 
+Likewise, you can do this as a visual kind of binary query. 
+Where the question is true, that may help stimulate sales and so forth. 
+But this is another way to kind of visually look at this condition. 
+Any questions on this? Really important point about this. 
+This next part is really important. 
+So when it comes to related time series, you really should take care of engineering and future data. 
+So the future data, you really need to do that as far out to your horizon as you can. 
+And the reason for that is, maybe if you step away from time series and you think about the classical examples of predicting the house price, predicting the car price, and then you've got these expressions. 
+One of the things that may be helpful to estimate the price of that car is the size of the number of bedrooms it's a location of. 
+And that information is used to train the industry. 
+But guess what? You can't train a model on that in the past and in a certain way in the future. 
+And you have to go back to the variables and still expect the number of the problem. 
+So what you do is if you're doing a three month horizon, you would work with your marketing team to understand who are they going to look at in the promotion. 
+Or when are they going to launch the idea? If you work with your marketing teams and the company to understand what's happening next, you can encode it properly in the day set. 
+And then that will work a better model for them. 
+And this is really, we've got a prospect, we've got P2D R plus, and we've got standard 2R. 
+This model is used for related time series. 
+However, if you don't do a future data related time series, you can always scan the 2R and try to get in. 
+And it's good when it helps the brain-space is going to build a model to take care of your data. 
+I'm going to say that. 
+Any questions on that? And I'll actually leave the quotes back. 
+
+I'll be back about a minute. 
+All right. 
+Please join us on Thursday. 
+This is a session with Fogelfeld. 
+We had a very first call with Fogelfeld. 
+We'll soon have an explainer who will provide us with some correctional methods for the stores. 
+And Fogelfeld will be here to talk about that experience. 
+This is also a part of the team that gets to have this. 
+You can also be used to have a student about to do a web search. 
+And as I'm working at scale, I have a room here as well. 
+But there's code, there's HTML files, information, and much more. 
+So I think you can get a target group with a little bit of experience. 
+So there are some of you outside, but I'll move our colleague, Dan Sinright, to talk about the manager. 
+If you don't have anything you want to do, just immediately, we have hands-on questions. 
+And if you have any questions, just put them on Facebook. 
+I can meet you and see what's on your mind. 
+And I just heard you're here, if you'd like to give a little introduction. 
+I would appreciate that. 
+I just had to rush this and I'm not dressed for the year. 
+So if you'd write it, it's less of a meeting than a session. 
+And you can have time to support it. 
+All right. 
+Well, that's it. 
+Good bye. 
+Thank you. 
+Thank you.
